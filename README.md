@@ -23,6 +23,3 @@ The main objective of the study is to use and apply suitable econometric models 
 - Construct econometric models to forecast key service balance items (Suez Canal and travel)
 - Develop a robust model to forecast worker remittances
 
----
-
-*Note: This project is under active development and reflects a research-in-progress.*
