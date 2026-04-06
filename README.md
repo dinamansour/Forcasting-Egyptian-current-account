@@ -2,7 +2,7 @@
 
 This repository contains time-series forecasting models for key components of Egypt’s current account, including remittances, Suez Canal revenues, and tourism income. The aim is to evaluate and compare traditional econometric approaches and modern machine learning techniques to improve forecast accuracy.
 
-This project is part of my ongoing PhD in Data Science, where I focus on building, testing, and refining models that support economic policy analysis and international reporting. The work is still in progress, and models are continuously being developed and updated.
+This project is part of PhD in Data Science, where I focus on building, testing, and refining models that support economic policy analysis and international reporting. The work is still in progress, and models are continuously being developed and updated.
 
 ## Research Importance
 
